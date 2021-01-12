@@ -2,5 +2,5 @@
 
 ## Livro de Receitas
 
-- Panquecas
+- Panquecas :pancakes:
 - 
