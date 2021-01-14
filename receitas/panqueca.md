@@ -1,13 +1,13 @@
 # Panquecas :pancakes:
 
-### Ingredientes
+## Ingredientes
 
 - 2 xícaras (chá) de farinha de trigo
 - 2 xícaras (chá) de leite
 - 3 ovos
 - 1 pitada de sal
 
-### Modo de preparo
+## Modo de preparo
 
 1. Bata todos os ingredientes no liquidificador por 2 minutos.
 
